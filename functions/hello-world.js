@@ -1,6 +1,6 @@
 exports.handler = function(context, event, callback) {
     const result = {
-        message : "One Last Try"
+        message : "One Goddamn Last time"
     }
 
     callback(null, result);
